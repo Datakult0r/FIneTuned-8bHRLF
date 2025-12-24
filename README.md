@@ -1,4 +1,3 @@
-
 # 🌿 green-squares-bot
 
 > **A fun and educational GitHub Actions bot that automatically commits on weekdays to keep your contribution graph active.**
