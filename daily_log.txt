@@ -684,3 +684,4 @@
 [2026-06-18 10:15:50 PM] You’re one step closer to your goal.
 [2026-06-18 10:15:50 PM] Don’t break the streak — commit today!
 [2026-06-19 01:19:22 PM] Don’t break the streak — commit today!
+[2026-06-19 01:19:22 PM] Consistency is more important than intensity.
