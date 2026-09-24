@@ -814,3 +814,4 @@
 [2026-09-24 04:22:49 PM] The habit of showing up wins the game.
 [2026-09-24 10:00:37 PM] Just showing up matters.
 [2026-09-24 10:00:37 PM] Bit by bit, you create the masterpiece.
+[2026-09-25 12:59:33 AM] It’s not about perfection. It’s about progress.
